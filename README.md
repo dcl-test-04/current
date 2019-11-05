@@ -1,2 +1,1 @@
-# current
-Current's repo
+# Current's repo
